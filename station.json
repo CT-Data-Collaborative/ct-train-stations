@@ -1,0 +1,262 @@
+[
+  {
+    "Station": "Ansonia",
+    "Latitude": 41.344131,
+    "Longitude": -73.079894
+  },
+  {
+    "Station": "Beacon Falls",
+    "Latitude": 41.44067,
+    "Longitude": -73.062992
+  },
+  {
+    "Station": "Berlin",
+    "Latitude": 41.635652,
+    "Longitude": -72.765365
+  },
+  {
+    "Station": "Bethel",
+    "Latitude": 41.376067,
+    "Longitude": -73.417658
+  },
+  {
+    "Station": "Branchville",
+    "Latitude": 41.266751,
+    "Longitude": -73.440857
+  },
+  {
+    "Station": "Branford",
+    "Latitude": 41.274537,
+    "Longitude": -72.817232
+  },
+  {
+    "Station": "Bridgeport",
+    "Latitude": 41.1779,
+    "Longitude": -73.187193
+  },
+  {
+    "Station": "Cannondale",
+    "Latitude": 41.216704,
+    "Longitude": -73.426636
+  },
+  {
+    "Station": "Clinton",
+    "Latitude": 41.279566,
+    "Longitude": -72.529169
+  },
+  {
+    "Station": "Cos Cob",
+    "Latitude": 41.029863,
+    "Longitude": -73.600131
+  },
+  {
+    "Station": "Danbury",
+    "Latitude": 41.396111,
+    "Longitude": -73.448772
+  },
+  {
+    "Station": "Darien",
+    "Latitude": 41.077168,
+    "Longitude": -73.471673
+  },
+  {
+    "Station": "Derby/Shelton",
+    "Latitude": 41.320277,
+    "Longitude": -73.083633
+  },
+  {
+    "Station": "East Norwalk",
+    "Latitude": 41.104227,
+    "Longitude": -73.404197
+  },
+  {
+    "Station": "Fairfield",
+    "Latitude": 41.14281,
+    "Longitude": -73.257778
+  },
+  {
+    "Station": "Fairfield",
+    "Latitude": 41.161927,
+    "Longitude": -73.23362
+  },
+  {
+    "Station": "Glenbrook",
+    "Latitude": 41.07104,
+    "Longitude": -73.520032
+  },
+  {
+    "Station": "Green's Farms",
+    "Latitude": 41.122464,
+    "Longitude": -73.315039
+  },
+  {
+    "Station": "Greenwich",
+    "Latitude": 41.021438,
+    "Longitude": -73.625547
+  },
+  {
+    "Station": "Guilford",
+    "Latitude": 41.27572,
+    "Longitude": -72.673384
+  },
+  {
+    "Station": "Hartford Union Station",
+    "Latitude": 41.768388,
+    "Longitude": -72.681645
+  },
+  {
+    "Station": "Madison",
+    "Latitude": 41.28371,
+    "Longitude": -72.59974
+  },
+  {
+    "Station": "Meriden",
+    "Latitude": 41.539202,
+    "Longitude": -72.80097
+  },
+  {
+    "Station": "Merritt",
+    "Latitude": 41.14661,
+    "Longitude": -73.427819
+  },
+  {
+    "Station": "Milford",
+    "Latitude": 41.222642,
+    "Longitude": -73.058859
+  },
+  {
+    "Station": "Mystic",
+    "Latitude": 41.350932,
+    "Longitude": -71.963162
+  },
+  {
+    "Station": "Naugatuck",
+    "Latitude": 41.49281,
+    "Longitude": -73.05219
+  },
+  {
+    "Station": "New Canaan",
+    "Latitude": 41.145915,
+    "Longitude": -73.496384
+  },
+  {
+    "Station": "New Haven State St Station",
+    "Latitude": 41.305002,
+    "Longitude": -72.921956
+  },
+  {
+    "Station": "New Haven Union Station",
+    "Latitude": 41.297465,
+    "Longitude": -72.92664
+  },
+  {
+    "Station": "New London",
+    "Latitude": 41.354244,
+    "Longitude": -72.093057
+  },
+  {
+    "Station": "Noroton Heights",
+    "Latitude": 41.068997,
+    "Longitude": -73.496677
+  },
+  {
+    "Station": "Old Greenwich",
+    "Latitude": 41.033347,
+    "Longitude": -73.56791
+  },
+  {
+    "Station": "Old Saybrook",
+    "Latitude": 41.300196,
+    "Longitude": -72.377959
+  },
+  {
+    "Station": "Redding",
+    "Latitude": 41.324794,
+    "Longitude": -73.435144
+  },
+  {
+    "Station": "Riverside",
+    "Latitude": 41.031732,
+    "Longitude": -73.587183
+  },
+  {
+    "Station": "Rowayton",
+    "Latitude": 41.077709,
+    "Longitude": -73.444283
+  },
+  {
+    "Station": "Seymour",
+    "Latitude": 41.395372,
+    "Longitude": -73.072518
+  },
+  {
+    "Station": "South Norwalk",
+    "Latitude": 41.095527,
+    "Longitude": -73.421799
+  },
+  {
+    "Station": "Southport",
+    "Latitude": 41.136463,
+    "Longitude": -73.285801
+  },
+  {
+    "Station": "Springdale",
+    "Latitude": 41.089004,
+    "Longitude": -73.517791
+  },
+  {
+    "Station": "Stamford",
+    "Latitude": 41.046805,
+    "Longitude": -73.541952
+  },
+  {
+    "Station": "Stratford",
+    "Latitude": 41.194834,
+    "Longitude": -73.130851
+  },
+  {
+    "Station": "Talmadge Hill",
+    "Latitude": 41.116373,
+    "Longitude": -73.498062
+  },
+  {
+    "Station": "Wallingford",
+    "Latitude": 41.456957,
+    "Longitude": -72.824938
+  },
+  {
+    "Station": "Waterbury",
+    "Latitude": 41.554572,
+    "Longitude": -73.047054
+  },
+  {
+    "Station": "West Haven",
+    "Latitude": 41.271249,
+    "Longitude": -72.964386
+  },
+  {
+    "Station": "Westbrook",
+    "Latitude": 41.288878,
+    "Longitude": -72.44796
+  },
+  {
+    "Station": "Westport",
+    "Latitude": 41.118902,
+    "Longitude": -73.370218
+  },
+  {
+    "Station": "Wilton",
+    "Latitude": 41.195944,
+    "Longitude": -73.431993
+  },
+  {
+    "Station": "Windsor",
+    "Latitude": 41.851762,
+    "Longitude": -72.643166
+  },
+  {
+    "Station": "Windsor Locks",
+    "Latitude": 41.913935,
+    "Longitude": -72.626009
+  }
+]
